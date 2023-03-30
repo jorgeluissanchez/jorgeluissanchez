@@ -1,16 +1,34 @@
-### Hi there 👋
+<!-- Encabezado -->
+# ¡Hola, soy Jorge Sánchez! 👋
 
-<!--
-**jorgeluissanchez/jorgeluissanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web full-stack con experiencia en diferentes tecnologías como HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL y más. Me gusta crear aplicaciones elegantes e interactivas que ayuden a resolver problemas del mundo real.
 
-Here are some ideas to get you started:
+<!-- Imagen de presentación -->
+![Banner de presentación](https://via.placeholder.com/1500x500?text=¡Bienvenido+a+mi+perfil+de+GitHub!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Logo -->
+<img align="right" width="150" height="150" src="https://via.placeholder.com/150">
+
+## Sobre mí
+
+- 🌱 Actualmente estoy aprendiendo Flutter para desarrollo móvil.
+- 🧠 Me gusta enfrentar nuevos desafíos y aprender nuevas tecnologías.
+- 💬 Pregúntame cualquier cosa sobre desarrollo web, ¡estaré encantado de ayudarte!
+- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/sanbajorge/) para hablar sobre oportunidades laborales.
+
+## Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeluissanchez&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+</p>
+
+## Mis lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeluissanchez&layout=compact&theme=dark" alt="Lenguajes más utilizados en mis repositorios" />
+</p>
+
+<!-- Pie de página -->
+<footer>
+  <p align="center">¡Gracias por visitar mi perfil de GitHub! 🙌</p>
+</footer>
