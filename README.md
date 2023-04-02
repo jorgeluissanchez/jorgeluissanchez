@@ -4,8 +4,7 @@
 I'm a web developer with 3 years of experience in the programming world. I live in Colombia and I'm 18 years old. I focus on improving my performance and technical skills to complete my integral formation and achieve an advanced level of knowledge in the software world.
 
 <!-- Logo -->
-<img align="right" width="150" height="150" src="https://via.placeholder.com/150">
-
+<img align="right" width="150" height="150" src="https://i.ibb.co/LZNwMQs/image.png">
 ## About me
 
 - 🌱 I'm currently studying Systems Engineering at Universidad del Norte.
