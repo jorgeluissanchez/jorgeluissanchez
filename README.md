@@ -1,34 +1,34 @@
-<!-- Encabezado -->
-# ¡Hola, soy Jorge Sánchez! 👋
+<!-- Header -->
+# Hello, I'm Jorge Sánchez! 👋
 
-Soy un desarrollador web full-stack con experiencia en diferentes tecnologías como HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL y más. Me gusta crear aplicaciones elegantes e interactivas que ayuden a resolver problemas del mundo real.
+I'm a web developer with 3 years of experience in the programming world. I live in Colombia and I'm 18 years old. I focus on improving my performance and technical skills to complete my integral formation and achieve an advanced level of knowledge in the software world.
 
-<!-- Imagen de presentación -->
-![Banner de presentación](https://via.placeholder.com/1500x500?text=¡Bienvenido+a+mi+perfil+de+GitHub!)
+<!-- Presentation Image -->
+![Presentation banner](https://via.placeholder.com/1500x500?text=Welcome+to+my+GitHub+profile!)
 
 <!-- Logo -->
 <img align="right" width="150" height="150" src="https://via.placeholder.com/150">
 
-## Sobre mí
+## About me
 
-- 🌱 Actualmente estoy aprendiendo Flutter para desarrollo móvil.
-- 🧠 Me gusta enfrentar nuevos desafíos y aprender nuevas tecnologías.
-- 💬 Pregúntame cualquier cosa sobre desarrollo web, ¡estaré encantado de ayudarte!
-- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/sanbajorge/) para hablar sobre oportunidades laborales.
+- 🌱 I'm currently studying Systems Engineering at Universidad del Norte.
+- 🧠 I have knowledge in JavaScript, Java, C#, NodeJS, HTML, CSS, React, and Angular.
+- 💬 Ask me anything about web development, I'll be happy to help!
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sanbajorge/) or write to my email jorgesanchezbarreneche@outlook.com to talk about job opportunities.
 
-## Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgeluissanchez&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
-
-## Mis lenguajes
+## My stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeluissanchez&layout=compact&theme=dark" alt="Lenguajes más utilizados en mis repositorios" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeluissanchez&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
 
-<!-- Pie de página -->
-<footer>
-  <p align="center">¡Gracias por visitar mi perfil de GitHub! 🙌</p>
-</footer>
+## My languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeluissanchez&layout=compact&theme=dark" alt="Most used languages in my repositories" />
+</p>
+
+## Let's collaborate!
+
+Thanks for visiting my GitHub profile! If you are interested in collaborating with me on a project, feel free to contact me.
+I'm always open to new opportunities and I look forward to hearing from you soon! 🤝
