@@ -5,6 +5,7 @@ I'm a web developer with 3 years of experience in the programming world. I live 
 
 <!-- Logo -->
 <img align="right" width="150" height="150" src="https://i.ibb.co/LZNwMQs/image.png">
+
 ## About me
 
 - 🌱 I'm currently studying Systems Engineering at Universidad del Norte.
