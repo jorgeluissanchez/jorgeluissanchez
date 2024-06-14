@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hello, I'm Jorge Sánchez! 👋
 
-I'm a web developer with 3 years of experience in the programming world. I live in Colombia and I'm 18 years old. I focus on improving my performance and technical skills to complete my integral formation and achieve an advanced level of knowledge in the software world.
+I'm a web developer with 1 years of experience. I live in Colombia and I'm 19 years old. I focus on improving my performance and technical skills to complete my integral formation and achieve an advanced level of knowledge in the software world.
 
 <!-- Logo -->
 <img align="right" width="150" height="150" src="https://i.ibb.co/LZNwMQs/image.png">
@@ -9,7 +9,7 @@ I'm a web developer with 3 years of experience in the programming world. I live 
 ## About me
 
 - 🌱 I'm currently studying Systems Engineering at Universidad del Norte.
-- 🧠 I have knowledge in JavaScript, Java, C#, NodeJS, HTML, CSS, React, and Angular.
+- 🧠 I have knowledge in Nextjs, APEX, Angular, springboot and .net.
 - 💬 Ask me anything about web development, I'll be happy to help!
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sanbajorge/) or write to my email jorgesanchezbarreneche@outlook.com to talk about job opportunities.
 
